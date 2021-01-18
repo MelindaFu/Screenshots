@@ -1,4 +1,4 @@
 # Screenshots
-Codecademy: https://www.codecademy.com/learn
+Codecademy: https://www.codecademy.com/profiles/MelindaFu
 
-Codepen: https://www.codecademy.com/learn
+Codepen: https://codepen.io/Melinda_Fu
